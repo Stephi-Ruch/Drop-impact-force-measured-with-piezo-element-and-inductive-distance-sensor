@@ -19,7 +19,7 @@ Stain-Stress curve: Counter force (F) recorded by TA during calibration as a fun
 
 The minimum DS voltage as a function of velocity, at distances 0.001, 0.005, 0.010, 0.015, 0.020 and 0.025 mm. 
 Used to calculate he distance traveled at a theoretical deformation rate of 0.0 mm/s
-<img src="https://user-images.githubusercontent.com/88829879/131498713-66c6c896-b55c-4676-984a-d4f7689712c7.png" width="50%">
+<img src="https://user-images.githubusercontent.com/88829879/131498713-66c6c896-b55c-4676-984a-d4f7689712c7.png" width="400" style="margin-left:auto;margin-right:auto">
 
 The minimum voltage as a function of distance, at velocities 0.0,0.1, 0.3, 0.5, 0.7, 0.9, 1.5 and 2.0 mm/s. Original data points and the y-intercepts of the linear regressions are also included. * refers to theoretical values.
 ![Figure_2](https://user-images.githubusercontent.com/88829879/131498712-431dec83-94bd-4de5-bcc7-a15814ff2c3e.png)
