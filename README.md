@@ -12,7 +12,7 @@ Measuring high speed cocoa butter crystal- melt suspension droplet deposition on
 ##0. Callibration Piezo element Fleximibity constant
 
 Stain-Stress curve: Counter force (F) recorded by TA during calibration as a function of the live deflection (W) of the piezo element in mm. A refers to the area of the TA application in m^2. h is the thickness of the piezo element in mm.
-<img src="https://user-images.githubusercontent.com/88829879/131498651-096cc177-3f5e-4bea-ad69-3145b205d367.png" width="400">
+<img src="https://user-images.githubusercontent.com/88829879/131498651-096cc177-3f5e-4bea-ad69-3145b205d367.png" width="400" align="center">
 
 ##1. Turning distance sensor (DS) voltage output to Piezo maximum deflection
 - Requires deformation rate to be determined
@@ -20,7 +20,7 @@ Stain-Stress curve: Counter force (F) recorded by TA during calibration as a fun
 The minimum DS voltage as a function of velocity, at distances 0.001, 0.005, 0.010, 0.015, 0.020 and 0.025 mm. 
 Used to calculate he distance traveled at a theoretical deformation rate of 0.0 mm/s
 <br>
-<img src="https://user-images.githubusercontent.com/88829879/131498713-66c6c896-b55c-4676-984a-d4f7689712c7.png" width="400" style="position:relative;margin-left:auto;margin-right:auto">
+<img src="https://user-images.githubusercontent.com/88829879/131498713-66c6c896-b55c-4676-984a-d4f7689712c7.png" width="400" >
 <br>
 
 The minimum voltage as a function of distance, at velocities 0.0,0.1, 0.3, 0.5, 0.7, 0.9, 1.5 and 2.0 mm/s. Original data points and the y-intercepts of the linear regressions are also included. * refers to theoretical values.
