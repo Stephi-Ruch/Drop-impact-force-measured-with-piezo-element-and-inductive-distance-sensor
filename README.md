@@ -8,7 +8,7 @@ Measuring high speed cocoa butter crystal- melt suspension droplet deposition on
 - Distance Sensor(DS)-Piezo Set-up callibration through Texture Analyser 
 
 # DS - Piezo Set-up Callibration 
-## Raw distance sensor signal 
+## Raw distance sensor signal, when Piezo element is impacted
 <p align="center">
 <img src="https://user-images.githubusercontent.com/88829879/131502090-0484a4ea-a6bf-4935-bf52-1cc770080351.png" width="400">
 </p>
