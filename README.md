@@ -8,13 +8,13 @@ Measuring high speed cocoa butter crystal- melt suspension droplet deposition on
 - Distance Sensor(DS)-Piezo Set-up callibration through Texture Analyser 
 
 
-DS - Piezo Set-up Callibration 
-0. Callibration Piezo element Fleximibity constant
+#DS - Piezo Set-up Callibration 
+##0. Callibration Piezo element Fleximibity constant
 
 Stain-Stress curve: Counter force (F) recorded by TA during calibration as a function of the live deflection (W) of the piezo element in mm. A refers to the area of the TA application in m^2. h is the thickness of the piezo element in mm.
-![Flex Constant](https://user-images.githubusercontent.com/88829879/131498651-096cc177-3f5e-4bea-ad69-3145b205d367.png)
+![Flex Constant](https://user-images.githubusercontent.com/88829879/131498651-096cc177-3f5e-4bea-ad69-3145b205d367.png |width=400)
 
-1. Turning distance sensor (DS) voltage output to Piezo maximum deflection
+##1. Turning distance sensor (DS) voltage output to Piezo maximum deflection
 - Requires deformation rate to be determined
 
 The minimum DS voltage as a function of velocity, at distances 0.001, 0.005, 0.010, 0.015, 0.020 and 0.025 mm. 
